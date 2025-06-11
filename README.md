@@ -15,7 +15,7 @@ This is a 2FA Authenticator used to add additional security to your online accou
 - **If this isn't secure, then why should I use it?**
     - I would only use this with accounts that are temporary, or accounts that you don't care about.
 - **How do I use it?**
-    1. Follow the instructions outlined in the Quick Setup section
+    1. Follow the instructions outlined in the "Quick Setup" section
     2. Select the option to add an identifier, your identitifer can be anything, but I usually make it the email / username for the account that I'm using it for.
     3. Next, enter the 2FA Key, if you only see a QR Code, and not a 2FA Key, then you might have to click a button that says "Manual Setup" or something along those lines.
     4. Once you enter a valid 2FA Key, you should be back at the main menu, select the "Get 2FA Code" option, and it should display your set identifier and the current 2FA code**.
