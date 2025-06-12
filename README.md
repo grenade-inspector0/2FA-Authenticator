@@ -3,10 +3,11 @@ This is a 2FA Authenticator used to add additional security to your online accou
 
 # Quick Setup*
 1. Install the latest version of [Python](https://python.org)
-    - Make sure to enable the "Add Python to PATH" setting when installing Python. 
-2. Open a CMD Window in the same directory as the python file.
-3. Run "pip install -r requirements.txt" 
-4. Run "python main.py"
+    - Make sure to enable the "Add Python to PATH" setting when installing Python.
+2. Download the [latest release](https://github.com/grenade-inspector0/2FA-Authenticator/archive/refs/heads/main.zip), the unzip the zip archive.
+3. Now, open a CMD Prompt window in the same directory as the unzipped folder, which contains all the project files.
+4. Run "pip install -r requirements.txt" 
+5. Run "python main.py"
 ##### *Not quick if you don't already have Python already installed.
 
 # FAQ
