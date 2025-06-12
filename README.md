@@ -20,5 +20,5 @@ This is a 2FA Authenticator used to add additional security to your online accou
     2. Select the option to add an identifier, your identitifer can be anything, but I usually make it the email / username for the account that I'm using it for.
     3. Next, enter the 2FA Key, if you only see a QR Code, and not a 2FA Key, then you might have to click a button that says "Manual Setup" or something along those lines.
     4. Once you enter a valid 2FA Key, you should be back at the main menu, select the "Get 2FA Code" option, and it should display your set identifier and the current 2FA code**.
-    5. To be remove the identifier you can either manually open the .json file, or from the main menu you can select the option to remove it using its identifier. 
+    5. To remove the identifier you can either manually open the .json file, or from the main menu you can select the option to remove it using its identifier. 
 #### **The 2FA Code updates every 30 seconds, but my script doesn't update when the 2FA Code changes, so you'll have to use the option to regenerate the code(s) if it doesn't work. 
